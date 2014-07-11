@@ -1,0 +1,33 @@
+.chapter h2 {
+  font-size: 115px;
+  color: #fff;
+}
+
+.credit {
+  position: absolute;
+  font-size: 16px !important;
+  bottom: 50px !important;
+  right: 50px !important;
+  color: #fff;
+  z-index: 10;
+}
+
+.aptitude {
+  font-size: 120px !important;
+}
+
+.bigger {
+  text-transform: uppercase !important;
+  font-size: 150px !important;
+  color: #000;
+}
+
+.ultrabigger {
+  text-transform: uppercase !important;
+  font-size: 320px !important;
+  color: #000;
+}
+
+.red {
+  color: #f00;
+}
