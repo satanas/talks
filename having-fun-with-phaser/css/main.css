@@ -1,0 +1,47 @@
+.reveal .slides .intro img {
+  border: none;
+  background: none;
+  box-shadow: none;
+}
+
+.reveal h3 {
+  font-size: 1.55em;
+  margin-top: 60px;
+  color: rgb(147, 161, 161);
+  font-family: "Lato", sans-serif;
+  text-transform: none;
+  letter-spacing: -0.02em;
+}
+
+.reveal .end h1 {
+  display: inline;
+}
+
+.reveal .end h1.space {
+  margin: 0 40px;
+}
+
+.reveal .end h1.cy {
+  color: cyan;
+}
+.reveal .end h1.lb {
+  color: skyblue;
+}
+.reveal .end h1.lg {
+  color: lightgreen;
+}
+.reveal .end h1.ol{
+  color: lightcoral;
+}
+.reveal .end h1.ye{
+  color: yellow;
+}
+.reveal .end h1.or{
+  color: orange;
+}
+.reveal .end h1.pi{
+  color: pink;
+}
+.reveal .end h1.pu{
+  color: purple;
+}
